@@ -1,3 +1,3 @@
 # Cooler-Master-RGB
-App to control then RGB on Cooler Master Masterkeys Keyboards.<br>Currently only supports the MasterKeys L keyboard.<br>
+App to control the RGB on Cooler Master Masterkeys keyboards.<br>Currently only supports the MasterKeys L keyboard and is aimed at the x64 platform with the target framework being the .NET Framework 4.5.2. <br>This app utilizes the SDK that Cooler Master provides for their MasterKeys keyboards. The SDK is in the form of a .dll written in c++, the first version of this app was written using c++ however I decided to change it over to using C# as implementing certain features are much easier eg: Registering for system events such as unlock and lock of the pc.<br>
 ![App Preview](https://github.com/AllanMoorhouse23/Cooler-Master-RGB/blob/master/Images/RGBApp.PNG)
