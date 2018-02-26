@@ -21,8 +21,4 @@ For people who would like to just use the app without developing it I have inclu
   * Keypress
   * Lockscreen
 <br>
-
-![App Preview](https://github.com/AllanMoorhouse23/Cooler-Master-RGB/blob/master/Images/RGBApp.PNG)
-<p align="center">
-  <img src="https://github.com/AllanMoorhouse23/Cooler-Master-RGB/blob/master/Images/RGBApp.PNG" alt="App Preview"/>
-</p>
+  <img src="https://github.com/AllanMoorhouse23/Cooler-Master-RGB/blob/master/Images/RGBApp.PNG" alt="App Preview" align="center"/>
