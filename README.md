@@ -1,4 +1,4 @@
-# Cooler-Master-RGB
+<h1 align="center">Cooler-Master-RGB</h1>
 <p align="center">
   <img src="https://github.com/AllanMoorhouse23/Cooler-Master-RGB/blob/master/Images/RGBApp.PNG" alt="App Preview" />
 </p>
