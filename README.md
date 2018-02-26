@@ -3,7 +3,7 @@ App to control the RGB on Cooler Master Masterkeys keyboards.<br>Currently only 
 
 For people who would like to just use the app without developing it I have included an EXE folder. Simply copy the .exe and .dll into your desired location and launch the app. Current .exe version: v1.0.01<br> 
 
-Current Effects:
+* Current Effects:
   * Line by line
   * Alternating lines
   * Snake line by line
@@ -20,6 +20,6 @@ Current Effects:
   * Rainbow
   * Keypress
   * Lockscreen
-
+<br>
 
 ![App Preview](https://github.com/AllanMoorhouse23/Cooler-Master-RGB/blob/master/Images/RGBApp.PNG)
