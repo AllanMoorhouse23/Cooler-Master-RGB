@@ -34,7 +34,7 @@ namespace Cooler_Master_RGB
         [DllImport("SDKDLL.dll")]
         public static extern void SetFullLedColor(byte r, byte g, byte b);
 
-       //This is a test comment
+       // GEOFF WROTE THIS TEST COMMENT
 
 
         /// <summary>
