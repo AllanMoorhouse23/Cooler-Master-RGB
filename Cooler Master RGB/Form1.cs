@@ -14,7 +14,7 @@ namespace Cooler_Master_RGB
 {
     public partial class Form1 : Form
     {
-        //Test commit
+        
         public const int MAX_LED_ROW = 6;
         public const int MAX_LED_COLUMN = 22;
 
