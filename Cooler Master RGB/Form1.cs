@@ -132,7 +132,8 @@ namespace Cooler_Master_RGB
         public Form1()
         {
             InitializeComponent();
-
+            
+            
             sseh = new SessionSwitchEventHandler(SystemEvents_SessionSwitch);
             SystemEvents.SessionSwitch += sseh;
 
@@ -142,7 +143,7 @@ namespace Cooler_Master_RGB
             panelSecondary.BackColor = _effects_KeyPress_1.TempColor;
 
             SetControlDevice(DEVICE_INDEX.DEV_MKeys_L);
-
+            Console.WriteLine("TEST");
         }
 
         //--------------------------------------------------Application is closing-------------------------------------------------------
